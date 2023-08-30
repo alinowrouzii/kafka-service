@@ -11,13 +11,13 @@ To get started with the Nest KafkaModule, follow these simple installation steps
 1. Install the package using your preferred package manager:
 
    ```bash
-   npm install nest-kafka-module
+   npm install nestjs-kafka-service
    ```
 
    or
 
    ```bash
-   yarn add nest-kafka-module
+   yarn add nestjs-kafka-service
    ```
 
 2. Set up the required environment variables in your application. The following environment variables are necessary for the proper functioning of the package:
